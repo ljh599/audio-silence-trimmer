@@ -1,0 +1,1 @@
+# GTK 4 與 PyGObject 由目前作業系統提供，不透過 pip 安裝。
